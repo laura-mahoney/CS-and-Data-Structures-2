@@ -1,0 +1,25 @@
+Recursion
+1. Recursion is when a function calls itself, sometimes repeatedly. 
+2. You need a base case to identify when the recursion stops. If there is no base
+case, recursive functions can't begin the process of returning a final value. 
+
+Graphs
+1. A graph is a data structure that represents relationships in a set of data. 
+2. A graphs nodes can have multiple adjacencies, and unlike trees, graphs may
+or may not be directed. Trees have hierarchies, and graphs do not. 
+3. A graph would be a good model for modeling friendships and connections between people. 
+
+Performances of Different Data Structures
+
+
+
+Sorting
+1. Bubble sort works by comparing the first two items in a list to see which one is greater. 
+The greater number gets placed on the right. Then the greater number gets compared to 
+the next item, and so on, until the last number is the greatest. The biggest number 
+bubbles to the top. 
+2. Merge sort works by ordering two lists separately, then checking the first item in the
+first list and comparing it to 
+
+
+
